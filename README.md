@@ -23,7 +23,7 @@ This dataset is commonly used in **data analytics, machine learning, visualizati
 ## 📂 File Information
 
 - **File name:** `globalterrorismdb_0718dist.csv`
-- **Data Sources:** `https://www.kaggle.com/datasets/START-UMD/gtd`
+- **Data Source:** `https://www.kaggle.com/datasets/START-UMD/gtd`
 - **Encoding:** `Latin-1 (ISO-8859-1)`  
 - **Number of rows:** ~181,000  
 - **Number of columns:** 135  
